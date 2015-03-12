@@ -1,0 +1,13 @@
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\bin\Debug\CameraAppDemo.dll
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\bin\Debug\CameraAppDemo.pdb
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\bin\Debug\CameraAppDemo.dll.mdb
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\bin\Debug\CameraAppDemo.CameraAppDemo.apk
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\bin\Debug\CameraAppDemo.CameraAppDemo-Signed.apk
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\CameraAppDemo.dll
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\CameraAppDemo.pdb
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\android\bin\CameraAppDemo.CameraAppDemo.apk
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\res\layout\main.xml
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\res\values\strings.xml
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\res\drawable\icon.png
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\R.cs.flag
+C:\Users\israel.calderon\Downloads\CameraAppDemoNew\CameraAppDemoNew\obj\Debug\uploadflags.txt

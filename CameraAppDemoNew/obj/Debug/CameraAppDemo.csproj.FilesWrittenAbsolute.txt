@@ -1,0 +1,13 @@
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/MonoAndroid,Version=v4.1.AssemblyAttribute.cs
+/Users/amyburns/Downloads/CameraAppDemo/bin/Debug/CameraAppDemo.dll.mdb
+/Users/amyburns/Downloads/CameraAppDemo/bin/Debug/CameraAppDemo.dll
+/Users/amyburns/Downloads/CameraAppDemo/bin/Debug/CameraAppDemo.CameraAppDemo.apk
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/android/bin/CameraAppDemo.CameraAppDemo.apk
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/res/layout/main.xml
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/res/values/strings.xml
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/res/drawable/icon.png
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/R.cs.flag
+/Users/amyburns/Downloads/CameraAppDemo/bin/Debug/CameraAppDemo.CameraAppDemo-Signed.apk
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/uploadflags.txt
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/CameraAppDemo.dll
+/Users/amyburns/Downloads/CameraAppDemo/obj/Debug/CameraAppDemo.dll.mdb

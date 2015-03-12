@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CameraAppDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="Properties\AndroidManifest.xml" Line="12" Column="12" />
+      <File FileName="..\..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
